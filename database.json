@@ -1,0 +1,22 @@
+{
+  "icecremes": [
+    {
+      "id": "e059",
+      "name": "butter",
+      "category": "ssss",
+      "flavours": "fffffffffff",
+      "size": "1999ml",
+      "price": "12",
+      "available": true
+    },
+    {
+      "id": "4613",
+      "name": "mangoo",
+      "category": "cup",
+      "flavours": "mango",
+      "size": "100ml",
+      "price": "200",
+      "available": false
+    }
+  ]
+}
