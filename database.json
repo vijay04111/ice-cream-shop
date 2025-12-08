@@ -10,13 +10,22 @@
       "available": true
     },
     {
-      "id": "4613",
-      "name": "mangoo",
+      "id": "bc50",
+      "name": "butter",
       "category": "cup",
-      "flavours": "mango",
+      "flavours": "choco",
       "size": "100ml",
       "price": "200",
       "available": false
+    },
+    {
+      "id": "0c2b",
+      "name": "mangoo",
+      "category": "cup",
+      "flavours": "mango",
+      "size": "500ml",
+      "price": "1191",
+      "available": true
     }
   ]
 }
